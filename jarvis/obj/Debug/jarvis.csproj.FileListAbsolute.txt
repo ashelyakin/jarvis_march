@@ -1,0 +1,8 @@
+C:\Users\andre\Desktop\jarvis\jarvis\obj\Debug\jarvis.Properties.Resources.resources
+C:\Users\andre\Desktop\jarvis\jarvis\obj\Debug\jarvis.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\jarvis\jarvis\obj\Debug\jarvis.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\jarvis\jarvis\bin\Debug\jarvis.exe.config
+C:\Users\andre\Desktop\jarvis\jarvis\bin\Debug\jarvis.exe
+C:\Users\andre\Desktop\jarvis\jarvis\bin\Debug\jarvis.pdb
+C:\Users\andre\Desktop\jarvis\jarvis\obj\Debug\jarvis.exe
+C:\Users\andre\Desktop\jarvis\jarvis\obj\Debug\jarvis.pdb

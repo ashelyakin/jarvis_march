@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jarvis", "jarvis\jarvis.csproj", "{894E7982-4940-42C3-A6E4-77C80AFFD6C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{894E7982-4940-42C3-A6E4-77C80AFFD6C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{894E7982-4940-42C3-A6E4-77C80AFFD6C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{894E7982-4940-42C3-A6E4-77C80AFFD6C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{894E7982-4940-42C3-A6E4-77C80AFFD6C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F49B1F65-9DED-4754-B0D7-9D977ABD2CF5}
+	EndGlobalSection
+EndGlobal
